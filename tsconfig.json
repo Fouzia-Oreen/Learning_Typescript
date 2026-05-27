@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "es2016",
+    /* Modules */
+    "module": "commonjs",
+    "rootDir": "./src",
+    "paths": {},
+    "types": [],
+    "sourceMap": true,
+    /* Type Checking */
+    "strict": true,
+  }
+}
